@@ -60,7 +60,7 @@
       var isWorked = false;
 	  
 	  if (this.settings.test) {
-			this.words = ['browser'];
+			this.words = ['hello'];
 	  }
 	
       while (isWorked == false) {
